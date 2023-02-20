@@ -1,4 +1,3 @@
-//your JS code here. If required
 // Array to store the details of issued books
 let issuedBooks = [];
 
@@ -50,4 +49,4 @@ function updateTable() {
 }
 
 // Initialize the table
-updateTable()
+updateTable();
